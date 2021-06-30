@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CokeCain
+- 👋 Hi, I’m @fantaz
 - 👀 I’m interested in web development and fitness
 - 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on all JavaScript/React projects
